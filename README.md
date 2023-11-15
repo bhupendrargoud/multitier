@@ -1,5 +1,5 @@
-# multitier
-AWS cloud training by Bhupendra R
+# AWS cloud training by Bhupendra R
+
 ## This lab would involve below AWS services.
 ## VPC, EC2, SG, NACL, VPC-Peering, EBS, Snapshot, AMI, IAM
 
