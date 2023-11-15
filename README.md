@@ -23,6 +23,7 @@ This tutorial will guide you through the process of setting up a Redis-backed co
 - Basic understanding of Python and Flask
 
 ### Steps to setup Frontend server
+# Frontend server Setup (https://github.com/bhupendrargoud/multitier/blob/8be36ca5d829eacd27d5b190f52ad4f9b50aa23a/frontend-app-readiness.md)
 
 1. Launch an Ubuntu EC2 instance (VM-1)  with ports 80, & 90 open
 2. Install Apache2, Python, and the Redis Python library -- Refer "frontend-app-readiness.md
@@ -77,6 +78,7 @@ sudo vi /var/www/html/index.html
 ```
 
 ### Steps to setup Backend server
+# Backend server setup (https://github.com/bhupendrargoud/multitier/blob/8be36ca5d829eacd27d5b190f52ad4f9b50aa23a/Backend-App-Readiness.md)
 
 1. Launch another EC2 instance (VM-2)
 2. Install Redis server, refer "Backend-App-Readiness.md
