@@ -1,7 +1,7 @@
 ## This lab would involve below AWS services.
 ## VPC, EC2, SG, NACL, VPC-Peering, EBS, Snapshot, AMI, IAM
 
-![image](https://github.com/Vishwanathms/aws-saa-c03-scenarios/assets/19227977/da7301d4-12c1-43b3-9072-a4f8128f3c4b)
+![image]images/network.png
 ![image](https://github.com/Vishwanathms/aws-saa-c03-scenarios/assets/19227977/95f40b24-5968-492e-b68d-6e86a6485bc6)
 ![image](https://github.com/Vishwanathms/aws-saa-c03-scenarios/assets/19227977/21a1065c-eda9-4094-a640-6c610b426e10)
 
