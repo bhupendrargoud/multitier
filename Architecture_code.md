@@ -1,9 +1,9 @@
 ## This lab would involve below AWS services.
 ## VPC, EC2, SG, NACL, VPC-Peering, EBS, Snapshot, AMI, IAM
 
-![image]https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/network.png
-![image]https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/vm1.png
-![image]https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/vm2.png
+![image](https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/network.png)
+![image](https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/vm1.png)
+![image](https://github.com/bhupendrargoud/multitier/blob/1d88199f4b502e118e7eba4064beda2eef00e964/images/vm2.png)
 
 
 
