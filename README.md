@@ -1,2 +1,0 @@
-# multitier
-AWS cloud training
